@@ -1,0 +1,18 @@
+# Packages
+/build/
+/devel/
+/logs/
+/kakeru_py/
+/.cache/
+/.catkin_tools/
+/.config/
+/.dbus/
+/.gazebo/
+/.local/
+/.pki/
+/.ros/
+/.sdformat/
+/.vscode/
+/baxter_sdk/
+.bash_history
+
